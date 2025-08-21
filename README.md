@@ -54,6 +54,5 @@ Clear fraud vs non-fraud separation in EDA visualizations.
 ├── Fraudlent_Transaction_Prediction.ipynb    # Main notebook with code & analysis
 ├── requirements.txt                          # Dependencies
 ├── README.md                                 # Project documentation
-├── data/                                     # Dataset (Extract it)
 ```
 
